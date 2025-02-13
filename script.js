@@ -414,8 +414,8 @@ document.addEventListener("DOMContentLoaded", function () {
         });
 
 		const noMessages = [
-			"Si si istá? Skús to znova 😭",
-			"Prečo nie?😭 Ešte raz to skús",
+			"Si si istá? Skús to znova. 😭",
+			"Prečo nie?😭 Ešte raz to skús.",
 			"Nemiluješ ma láskoooo? 😭",
 			"Ako je to možné? 😭😭 To vážne nechceš?😭",
 			"Ešte raz to zváž... 😭",
