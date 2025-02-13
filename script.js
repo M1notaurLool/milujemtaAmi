@@ -451,8 +451,8 @@ document.addEventListener("DOMContentLoaded", function () {
 					<div style="text-align: center;">
 						<img src="pictures/love.gif" alt="Love GIF">
 						<p style="font-size: 24px;margin:0px">Jupííííííí✨! .</p>
-						<p style="font-size: 24px;margin:0px">Milujem ťa najviac v celom vesmíru láskoooo ! 💖</p>
-						<p style="font-size: 24px;margin:0px">No a mám aj nejaké prekvapko, no budeš si musieť trošku počkať</p>
+						<p style="font-size: 24px;margin:0px">Milujem ťa najviac v celom vesmíru láskoooo ! 😘💖</p>
+						<p style="font-size: 24px;margin:0px">No a mám aj nejaké prekvapko, no budeš si musieť trošku počkať😉</p>
 						<p class="male",style="font-size: 24px;margin:0px">(do nedele no a snáď ma za to nezabiješ😂)</p>
 					</div>
 					<div style="text-align: center; margin-top: 0px;">
