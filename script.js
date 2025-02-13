@@ -414,10 +414,10 @@ document.addEventListener("DOMContentLoaded", function () {
         });
 
 		const noMessages = [
-			"Si si istá?",
-			"Prečo nie? 😭",
+			"Si si istá? Skús to znova 😭",
+			"Prečo nie?😭 Ešte raz to skús",
 			"Nemiluješ ma láskoooo? 😭",
-			"Ako je to možné? 😭😭",
+			"Ako je to možné? 😭😭 To vážne nechceš?😭",
 			"Ešte raz to zváž... 😭",
 			"Naozaj nechceš? 😭😭😭",
 			"Posledná šanca Ami🥹, budeš mojou Valentínkou?!!! 💕"
